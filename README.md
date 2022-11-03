@@ -9,7 +9,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['HTML, PHP, C#, SQL];
+  linguagens  = ['PHP, JavaScript, Python, C#, SQL];
     frameworks = ['REACT, ANGULAR'];
 }
 ```
